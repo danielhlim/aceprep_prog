@@ -29,6 +29,8 @@ public class Program33 {
 		System.out.println(item + " " + price);
 		System.out.println("shipping " + shipping);
 		System.out.println("Total " + total);
+		//you are a loser
+		
 	}
 
 }

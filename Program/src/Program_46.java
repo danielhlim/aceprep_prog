@@ -7,7 +7,7 @@ public class Program_46 {
 		int n;
 		
 		Scanner scanner = new Scanner(System.in);
-		System.out.print("Enter Start: ");
+		System.out.print("Enter St art: ");
 		x = scanner.nextInt();
 		
 		System.out.print("Enter End: ");

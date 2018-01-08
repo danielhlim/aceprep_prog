@@ -44,7 +44,7 @@ public class Program39 {
 		bl = scanner.nextInt();
 		
 		if(bl > 35 && bl < 45) {
-			System.out.println("Inflation is ok");
+			System.out.println("I    nflation is ok");
 		}
 		else {
 			System.out.println("Warning: pressure is out of range");
@@ -57,8 +57,9 @@ public class Program39 {
 		else {
 			System.out.println("Inflation is BAD");
 		}
-		
-		System.out.println("YOU SUCK");
+		;    
+		System.out.println("WARNING! STOP THE CAR IMMEDIATLY "
+				+ "AND GO TO THE CAR CENTER NEARBY");
 
 }
 }
