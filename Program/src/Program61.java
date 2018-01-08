@@ -21,6 +21,9 @@ public class Program61 {
 			mpg=(initial-finalm)/gallon;
 			System.out.println("Miles per gallon = " + mpg);
 		}
+		if(initial<0) {
+			System.out.
+		}
 			
 		}
 	}
